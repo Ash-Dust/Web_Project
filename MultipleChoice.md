@@ -29,5 +29,9 @@ Sau khi lưu lại, ta sẽ có database. Tiếp theo, để tối ưu db thì m
 
 Biến trong PHP bắt đầu = $, khi bắt đầu bằng $_ -> biến đó là super global
 
+Mình sẽ tạo SESSION sử dụng biến 1
+
+![image](https://github.com/Ash-Dust/Web_Project/assets/120457430/14acdf08-6e4c-4d79-bfae-97b26637c5e0)
 
 
+'
